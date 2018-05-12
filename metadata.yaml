@@ -1,0 +1,35 @@
+_repo: Deformities-of-Samuel-Johnson-Selected-from-his-Works_37764
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Callender, James Thomson
+    birthdate: 1758
+    deathdate: 1803
+    gutenberg_agent_id: '38979'
+    url: http://www.gutenberg.org/2009/agents/38979
+  editors:
+  - agent_name: Congleton, J. E. (James Edmund)
+    alias: Congleton, James Edmund
+    gutenberg_agent_id: '26517'
+    url: http://www.gutenberg.org/2009/agents/26517
+  - agent_name: Kolb, Gwin J.
+    gutenberg_agent_id: '39049'
+    url: http://www.gutenberg.org/2009/agents/39049
+description: ''
+gutenberg_issued: '2011-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37764'
+  lccn: '70636391'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Johnson, Samuel, 1709-1784 -- Criticism and interpretation'
+- !lcc 'PR'
+title: Deformities of Samuel Johnson, Selected from His Works
+url: http://www.gutenberg.org/ebooks/37764
